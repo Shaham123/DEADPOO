@@ -122,7 +122,7 @@ async def start(bot, message):
                         InlineKeyboardButton("♻️ⒼⓇⓄⓊⓅ♻️", url="https://t.me/malllumoviesgroups")
                     ],
                     [
-                        InlineKeyboardButton("⭕️𝙲𝙷𝙰𝙽𝙽𝙴𝙻⭕️", url="https://t.me/mainchannel12346"),
+                        InlineKeyboardButton("Help🥺", callback_data="help"),
                         InlineKeyboardButton("Search Here♂️", switch_inline_query_current_chat='')
                       ]
                     ]
